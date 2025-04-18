@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vhalf_add
+!s110 1745007107
+!i10b 1
+!s100 3=KU=g]`VX6l9iG@3jiVK3
+ITBRa]8_mITzaQEf64=`S=1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/intelFPGA/18.1/lab3
+w1744995109
+8C:/intelFPGA/18.1/lab3/half_add_lab1.v
+FC:/intelFPGA/18.1/lab3/half_add_lab1.v
+L0 6
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1745007107.000000
+!s107 C:/intelFPGA/18.1/lab3/half_add_lab1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/lab3/half_add_lab1.v|
+!i113 1
+o-work work
+tCvgOpt 0
