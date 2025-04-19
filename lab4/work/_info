@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/lab3
+vEx2_OR
+Z0 !s110 1745055923
+!i10b 1
+!s100 aVi?<64h>POI8gAQLA]eA1
+Ih;Icb<l6<noIV^2b3^Uhk0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/lab4
+w1745048935
+8C:/intelFPGA/18.1/lab4/Ex2_name_OR.v
+FC:/intelFPGA/18.1/lab4/Ex2_name_OR.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1745055923.000000
+!s107 C:/intelFPGA/18.1/lab4/Ex2_name_OR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/lab4/Ex2_name_OR.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@ex2_@o@r
+vMyFunc
+R0
+!i10b 1
+!s100 ZoGYddaQ[3EJR;`n5P3dG2
+I0m>kPP3Q4O8^cC^Y<SYJ_2
+R1
+R2
+w1745052132
+8C:/intelFPGA/18.1/lab4/MyFunc.v
+FC:/intelFPGA/18.1/lab4/MyFunc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.1/lab4/MyFunc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/lab4/MyFunc.v|
+!i113 1
+R5
+R6
+n@my@func
