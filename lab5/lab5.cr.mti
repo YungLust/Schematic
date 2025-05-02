@@ -1,0 +1,8 @@
+C:/intelFPGA/18.1/lab5/demultiplex.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/lab5/demultiplex.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demultiplex
+
+Top level modules:
+	demultiplex
+
+} {} {}}

@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/lab4
+vdemultiplex
+!s110 1746190321
+!i10b 1
+!s100 m1bX8i=?S>VMU>fTZQmJ>0
+IV6];cRDHo_FVM0NMKBYRO1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/intelFPGA/18.1/lab5
+w1746186859
+8C:/intelFPGA/18.1/lab5/demultiplex.v
+FC:/intelFPGA/18.1/lab5/demultiplex.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1746190321.000000
+!s107 C:/intelFPGA/18.1/lab5/demultiplex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/lab5/demultiplex.v|
+!i113 1
+o-work work
+tCvgOpt 0
