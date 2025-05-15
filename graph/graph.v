@@ -1,0 +1,52 @@
+
+module graph(
+    input wire x,
+    output reg [2:0] MI
+);
+    // variable for saving state value
+    localparam a1 = 2'b00;
+    localparam a2 = 2'b01;
+    localparam a3 = 2'b10;
+
+    // variable for current state
+    reg [1:0] curr_state = a1;
+
+    // variable for the next state
+    reg [1:0] next_state = a2;
+
+    // initialize clk and reset to control automaton
+    reg clk = 0;
+    reg reset = 0;
+    
+    // make so clk is constalntly changing value
+    always #5 clk = ~clk;
+
+    // choose the next state according to x
+    always @(*) begin
+        case (curr_state)
+            a1: next_state = a2;
+            a2: next_state = a3;
+            a3: next_state = x ? a2 : a1;
+            default: next_state = a1;
+        endcase
+    end
+
+    // make the next state current state or reset to a1
+    always @(posedge clk or posedge reset) begin
+        if (reset)
+            curr_state = a1;
+        else
+            curr_state = next_state;
+    end
+
+  // save result in MI 
+    always @(*) begin
+        case (curr_state)
+            a1: MI = 3'b100; // Y1
+            a2: MI = 3'b010; // Y2
+            a3: MI = 3'b011; // Y2 Y3
+            default: MI = 3'b000;
+        endcase
+    end
+
+endmodule
