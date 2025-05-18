@@ -1,0 +1,15 @@
+module my_sum5 (Ain, Bin, Ci, Sout, Co);
+	input [4:0] Ain, Bin;
+	input Ci;
+	output [4:0] Sout;
+	output Co;
+
+	wire [4:0] Sout;
+	wire [4:0] C;
+
+	bitsum sum0(Ain[0], Bin[0], Sout[0], Ci, C[0]);
+	bitsum sum1(Ain[1], Bin[1], Sout[1], C[0], C[1]);
+	bitsum sum2(Ain[2], Bin[2], Sout[2], C[1], C[2]);
+	bitsum sum3(Ain[3], Bin[3], Sout[3], C[2], C[3]);
+	bitsum sum4(Ain[4], Bin[4], Sout[4], C[3], Co);
+endmodule
