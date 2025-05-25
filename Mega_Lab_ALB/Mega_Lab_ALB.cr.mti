@@ -1,0 +1,36 @@
+C:/intelFPGA/18.1/Mega_Lab_ALB/alb.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/Mega_Lab_ALB/alb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alb
+
+Top level modules:
+	alb
+
+} {} {}} C:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module logic_units
+
+Top level modules:
+	logic_units
+
+} {} {}} C:/intelFPGA/18.1/Mega_Lab_ALB/adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/Mega_Lab_ALB/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} C:/intelFPGA/18.1/Mega_Lab_ALB/mux.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/Mega_Lab_ALB/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux8to1
+
+Top level modules:
+	mux8to1
+
+} {} {}}

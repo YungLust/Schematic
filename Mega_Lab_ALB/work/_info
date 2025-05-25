@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/lab6
+vadder
+Z0 !s110 1748191485
+!i10b 1
+!s100 NRARRZQ@;gbGn6_5VcakX3
+IQF]C0am0zkNdlA=P<498=2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/Mega_Lab_ALB
+w1748184514
+8C:/intelFPGA/18.1/Mega_Lab_ALB/adder.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1748191485.000000
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valb
+Z7 !s110 1748191486
+!i10b 1
+!s100 3KYYzgmebZANeQ<`fZRNi2
+IbiF7RnjMlLFF^2hXJZddn1
+R1
+R2
+w1748184581
+8C:/intelFPGA/18.1/Mega_Lab_ALB/alb.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/alb.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1748191486.000000
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/alb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/alb.v|
+!i113 1
+R5
+R6
+valb_tb
+R7
+!i10b 1
+!s100 `@KSBHDk3Xf8RBUNQA@jI1
+ILGP8B<@RlQTWgeAXnC__h3
+R1
+R2
+w1748189504
+8C:/intelFPGA/18.1/Mega_Lab_ALB/alb_tb.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/alb_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/alb_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/alb_tb.v|
+!i113 1
+R5
+R6
+vlogic_units
+R0
+!i10b 1
+!s100 leaYj;Y@2gTdQZ4`8`<DU0
+Ij^SfSeT;0oH9ZiL:D9T?]3
+R1
+R2
+w1748184531
+8C:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/logic_units.v|
+!i113 1
+R5
+R6
+vmux8to1
+R0
+!i10b 1
+!s100 R_z_WNfDGXSXm1W2:SfQ_2
+IUK=Fi2=fQJ^<<:Qkj<i]42
+R1
+R2
+w1748184588
+8C:/intelFPGA/18.1/Mega_Lab_ALB/mux.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/mux.v|
+!i113 1
+R5
+R6
+vsubtractor
+R0
+!i10b 1
+!s100 0WRB6mNzI[1TD@W3V?Ecb0
+IA6Nz4TAR^5zo:jFWNNEj?2
+R1
+R2
+w1748184547
+8C:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v
+FC:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Mega_Lab_ALB/subtractor.v|
+!i113 1
+R5
+R6
